@@ -1,0 +1,1 @@
+This is me setting up the readme for the recipe project. I do think I'm going to get a little wacky with this. We'll see what I end up creating. I don't feel like I want to do a recipe site, but something more interesting.
